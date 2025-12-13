@@ -28,7 +28,7 @@ const AboutSection = () => {
               </a>
 
               <a
-                href="../../Rishabh Agrawal Resume - Aug '25.pdf"
+                href="../../Rishabh Agrawal Resume - Nov '25.pdf"
                 download="Rishabh_Agrawal_CV.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
