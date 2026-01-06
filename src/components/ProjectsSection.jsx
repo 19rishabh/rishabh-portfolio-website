@@ -42,6 +42,16 @@ const projects = [
     demoUrl: "#",
     githubUrl: "https://github.com/19rishabh/AskMyDocs-RAG",
   },
+  {
+    id: 5,
+    title: "Ishaara", 
+    description:
+      "End-to-end System that translates spoken English into Indian Sign Language and renders it through a 3D animated avatar.",
+    image: "/projects/ishaara.png", 
+    tags: ["spaCy", "Flask", "Three.js", "Blender"],  
+    demoUrl: "#",
+    githubUrl: "https://github.com/19rishabh/ishaara-speech-to-sign-animator",
+  },
 ];
 
 const ProjectsSection = () => {
